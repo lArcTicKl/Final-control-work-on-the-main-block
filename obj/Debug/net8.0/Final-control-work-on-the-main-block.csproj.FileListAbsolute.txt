@@ -1,0 +1,15 @@
+D:\GeekBrains\study\Final-control-work-on-the-main-block\obj\Debug\net8.0\Final-control-work-on-the-main-block.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\study\Final-control-work-on-the-main-block\obj\Debug\net8.0\Final-control-work-on-the-main-block.AssemblyInfoInputs.cache
+D:\GeekBrains\study\Final-control-work-on-the-main-block\obj\Debug\net8.0\Final-control-work-on-the-main-block.AssemblyInfo.cs
+D:\GeekBrains\study\Final-control-work-on-the-main-block\obj\Debug\net8.0\Final-control-work-on-the-main-block.csproj.CoreCompileInputs.cache
+D:\GeekBrains\study\Final-control-work-on-the-main-block\obj\Debug\net8.0\Final-control-work-on-the-main-block.sourcelink.json
+D:\GeekBrains\study\Final-control-work-on-the-main-block\bin\Debug\net8.0\Final-control-work-on-the-main-block.exe
+D:\GeekBrains\study\Final-control-work-on-the-main-block\bin\Debug\net8.0\Final-control-work-on-the-main-block.deps.json
+D:\GeekBrains\study\Final-control-work-on-the-main-block\bin\Debug\net8.0\Final-control-work-on-the-main-block.runtimeconfig.json
+D:\GeekBrains\study\Final-control-work-on-the-main-block\bin\Debug\net8.0\Final-control-work-on-the-main-block.dll
+D:\GeekBrains\study\Final-control-work-on-the-main-block\bin\Debug\net8.0\Final-control-work-on-the-main-block.pdb
+D:\GeekBrains\study\Final-control-work-on-the-main-block\obj\Debug\net8.0\Final-control-work-on-the-main-block.dll
+D:\GeekBrains\study\Final-control-work-on-the-main-block\obj\Debug\net8.0\refint\Final-control-work-on-the-main-block.dll
+D:\GeekBrains\study\Final-control-work-on-the-main-block\obj\Debug\net8.0\Final-control-work-on-the-main-block.pdb
+D:\GeekBrains\study\Final-control-work-on-the-main-block\obj\Debug\net8.0\Final-control-work-on-the-main-block.genruntimeconfig.cache
+D:\GeekBrains\study\Final-control-work-on-the-main-block\obj\Debug\net8.0\ref\Final-control-work-on-the-main-block.dll
