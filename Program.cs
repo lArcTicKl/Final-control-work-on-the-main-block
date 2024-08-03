@@ -18,8 +18,7 @@ int CountStringOfThreeOrFewerChar(string[] input)
 
 string[] CreateStringArray(string str)
 {
-    char[] DelimiterChars = { ' ', ',', '.', '!', '?', '\t' };
-    string[] words = str.Split(DelimiterChars);
+    string[] words = str.Split(' ');
 
     string[] newArray = new string[CountStringOfThreeOrFewerChar(words)];
     int j = 0;
@@ -38,7 +37,7 @@ void PrintArrayString(string[] str)
 {
     foreach (var item in str)
     {
-        Console.Write(item + ' ');
+        Console.Write(item + " ");
     }
     Console.WriteLine();
 }
