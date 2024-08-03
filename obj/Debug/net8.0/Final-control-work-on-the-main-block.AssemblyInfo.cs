@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Final-control-work-on-the-main-block")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71e3265a85c4c8a667338683e4e337b7f189cdf8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f425023096462617f9da4c6a3b6a44a16685fac8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Final-control-work-on-the-main-block")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Final-control-work-on-the-main-block")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
