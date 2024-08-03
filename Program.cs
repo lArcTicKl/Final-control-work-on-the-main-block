@@ -16,17 +16,15 @@ int CountStringOfThreeOrFewerChar(string[] input)
     return count;
 }
 
-string[] CreateStringArray(string str)
+string[] CreateStringArray(string[] str)
 {
-    string[] words = str.Split(' ');
-
-    string[] newArray = new string[CountStringOfThreeOrFewerChar(words)];
+    string[] newArray = new string[CountStringOfThreeOrFewerChar(str)];
     int j = 0;
-    for (int i = 0; i < words.Length; i++)
+    for (int i = 0; i < str.Length; i++)
     {
-        if (words[i].Length <= 3)
+        if (str[i].Length <= 3)
         {
-            newArray[j] = words[i];
+            newArray[j] = str[i];
             j++;
         }
     }
@@ -43,6 +41,6 @@ void PrintArrayString(string[] str)
 }
 
 Console.WriteLine("Enter a phrase:");
-string phrase = Console.ReadLine();
+string[] phrase = Console.ReadLine().Split(' ');
 string[] words = CreateStringArray(phrase);
 PrintArrayString(words);
